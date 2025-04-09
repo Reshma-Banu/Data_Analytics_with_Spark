@@ -11,3 +11,5 @@ Repository that contains the assignments for Data Analytics with Spark course
 
 
 [Asiignment 4] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2705730055079318/1118247573874437/8831808857207950/latest.html)
+
+[Final Project -IMDB] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2705730055079318/2270453209778823/8831808857207950/latest.html)
